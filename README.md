@@ -4,7 +4,7 @@ Documentation for CircleCI interview process.
 ## Start Using CircleCI Orbs
 
 <p>Are you a CircleCI user who isn’t implementing Orbs? If so, let’s change that. Orbs are powerful tools that can simplify your workflow, and connect your work in CircleCI to other tools you might be using in your team.</p>
-<p>Orbs are packages of CircleCI configurations that you can share, either within your organization or with the CircleCI community at large. In fact, there is an Orb Registry of these packages created by partners, the community, and within CircleCI  that are ready to use. If you can’t find what you’re looking for there, you can create your own private Orbs. </p> 
+<p>Orbs are packages of CircleCI configurations that you can share, either within your organization or with the CircleCI community at large. In fact, there is an Orb Registry of these packages created by partners, the community, and within CircleCI  that are ready to use. If you can’t find what you’re looking for there, you can create your own Orbs, which are either private or shared with the CircleCI community. </p> 
 <p>Here are a few of the primary advantages of using Orbs: </p>
 <ul>
 <li>Reduce configuration complexity</li>
